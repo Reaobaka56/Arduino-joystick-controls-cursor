@@ -20,7 +20,7 @@ A simple desktop cursor controller built using an Arduino Uno and a joystick mod
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Arduino-joystick-controls-cursor.git
+git clone https://github.com/Reaobaka56/Arduino-joystick-controls-cursor
 ```
 
 2. Open the project in VS Code or Arduino IDE.
